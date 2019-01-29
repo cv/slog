@@ -6,8 +6,8 @@ import (
 	"os"
 	"sync"
 
+	"github.com/cv/slog"
 	"github.com/go-logfmt/logfmt"
-	"jrubin.io/slog"
 )
 
 // Default handler outputting to stderr.

@@ -1,1 +1,1 @@
-package slog // import "jrubin.io/slog"
+package slog // import "github.com/cv/slog"

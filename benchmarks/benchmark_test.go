@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"jrubin.io/slog"
-	"jrubin.io/slog/handlers/discard"
+	"github.com/cv/slog"
+	"github.com/cv/slog/handlers/discard"
 
 	apex "github.com/apex/log"
 	apexdiscard "github.com/apex/log/handlers/discard"

@@ -5,7 +5,7 @@ package memory
 import (
 	"sync"
 
-	"jrubin.io/slog"
+	"github.com/cv/slog"
 )
 
 // Handler implementation.

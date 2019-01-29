@@ -5,8 +5,8 @@ import (
 	"os"
 	"time"
 
-	"jrubin.io/slog"
-	"jrubin.io/slog/handlers/logfmt"
+	"github.com/cv/slog"
+	"github.com/cv/slog/handlers/logfmt"
 )
 
 func main() {
